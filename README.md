@@ -1,2 +1,2 @@
 # testing
-resting repo
+testing repo
